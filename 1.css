@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(226, 216, 216);
+}
+
+p.tartalom {
+    max-width: 50%;
+    text-align: left;
+    border: 2px solid black;
+    background-color: cornsilk;
+}
+
+h1.cimsor {
+    border: 2px solid black;
+    background-color: blanchedalmond;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1.fogalom {
+    max-width: max-content;
+    border: 2px solid black;
+    background-color: rgb(247, 229, 184);
+    color: red;
+    font-weight: bold;
+}
+
+div.kovetkezo {
+    border: 1px solid black;
+    text-align: right;
+    background-color: blanchedalmond;
+    max-width: max-content;
+}
